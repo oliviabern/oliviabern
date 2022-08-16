@@ -2,7 +2,7 @@
 
 📚 I’m interested in biased sampling, prediction models, and Alzheimer's Disease
 
-👩🏽‍💻 I’m a 5th year PhD candidate in statitics at UC Irvine
+👩🏽‍💻 I’m a 5th year PhD candidate in statistics at UC Irvine
 
 📫 You can reach me at obernste@uci.edu
 
